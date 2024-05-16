@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Taha\Desktop\Algo\Project1\src\main\java\com\example\project1\.metadata\.plugins\org.eclipse.jdt.core

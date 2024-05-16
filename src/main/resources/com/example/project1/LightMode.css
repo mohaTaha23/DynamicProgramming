@@ -1,0 +1,37 @@
+
+ Pane{
+ 	-fx-background-color: #fde5dc;
+ }
+
+ /* styles.css */
+
+
+
+ .button {
+     -fx-background-color: #4a7071; /* Set the background color for buttons */
+     -fx-text-fill: white; /* Set the text color for buttons */
+     -fx-font-size: 14px; /* Set the font size for buttons */
+     /* -fx-padding: 18px 36px; Set the padding for buttons */
+ }
+
+ .text-field {
+     -fx-control-inner-background: white; /* Set the background color for text fields */
+     -fx-border-color: #4a7071; /* Set the border color for text fields */
+     -fx-border-width: 2px; /* Set the border width for text fields */
+     -fx-padding: 5px; /* Set the padding for text fields */
+     -fx-text-fill: #32292f;
+     -fx-background-color: #ffffff;
+ }
+
+ .text-area {
+     -fx-background-color: #ffffff; /* Set the background color for text area */
+     -fx-border-color: #4a7071; /* Set the border color for text area */
+     -fx-border-width: 1px; /* Set the border width for text area */
+     -fx-padding: 5px; /* Set the padding for text area */
+     -fx-font-family: "Arial"; /* Set the font family for text area */
+ }
+ .label{
+        -fx-text-fill: #32292f;
+        -fx-background-color: #ffffff;
+ }
+
